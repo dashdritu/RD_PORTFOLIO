@@ -9,6 +9,7 @@ function Type() {
           "Aspiring Software Developer",
           "Python Developer Enthusiast",
           "Web Development Aficionado",
+          "Cloud and Cybersecurity Explorer"
         ],
         autoStart: true,
         loop: true,
